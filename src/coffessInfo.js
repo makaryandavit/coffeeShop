@@ -15,6 +15,7 @@ const boxesInfo = [
     {
        idBox: Math.random() * Math.random() * 41684,
        img: Box1,
+       aosStyle: 'fade-right',
        title: 'REY NEGRO ARABICA',
        reTitle: '100% Арабика ',
        text: `Состав: кофе натуральный жареный в зернах ,средней обжарки 
@@ -28,6 +29,7 @@ const boxesInfo = [
     {
        idBox: Math.random() * Math.random() * 41684,
        img: Box2,
+       aosStyle: 'zoom-in',
        title: 'REY NEGRO BARISTA',
        reTitle: 'Робуста',
        text: `Состав: кофе натуральный жареный в зернах , средней обжарки 
@@ -41,6 +43,7 @@ const boxesInfo = [
     {
        idBox: Math.random() * Math.random() * 41684,
        img: Box3,
+       aosStyle: 'fade-left',
        title: 'REY NEGRO DE LUX',
        reTitle: 'Арабика 60% / Робуста 40%',
        text: `Состав: кофе натуральный жареный в зернах ,средней обжарки 
@@ -60,6 +63,7 @@ const boxesInfo2 = [
     {
        idBox: Math.random() * Math.random() * 41684,
        img: Box11,
+       aosStyle: 'fade-right',
        title: 'REY NEGRO ARABICA',
        reTitle: '100% Арабика ',
        text: `Состав: кофе натуральный жареный в зернах ,средней обжарки 
@@ -73,6 +77,7 @@ const boxesInfo2 = [
     {
        idBox: Math.random() * Math.random() * 41684,
        img: Box22,
+       aosStyle: 'zoom-in',
        title: 'REY NEGRO BARISTA',
        reTitle: 'Робуста',
        text: `Состав: кофе натуральный жареный в зернах , средней обжарки 
@@ -86,6 +91,7 @@ const boxesInfo2 = [
     {
        idBox: Math.random() * Math.random() * 41684,
        img: Box33,
+       aosStyle: 'fade-left',
        title: 'REY NEGRO DE LUX',
        reTitle: 'Арабика 60% / Робуста 40%',
        text: `Состав: кофе натуральный жареный в зернах ,средней обжарки 
@@ -107,6 +113,7 @@ const boxesInfo3 = [
    {
       idBox: Math.random() * Math.random() * 41684,
       img: Box111,
+      aosStyle: 'fade-right',
       title: 'REY NEGRO ARABICA',
       reTitle: '100% Арабика ',
       text: `Состав: кофе натуральный жареный в зернах ,средней обжарки 
@@ -120,6 +127,7 @@ const boxesInfo3 = [
    {
       idBox: Math.random() * Math.random() * 41684,
       img: Box222,
+      aosStyle: 'zoom-in',
       title: 'REY NEGRO BARISTA',
       reTitle: 'Робуста',
       text: `Состав: кофе натуральный жареный в зернах , средней обжарки 
@@ -133,6 +141,7 @@ const boxesInfo3 = [
    {
       idBox: Math.random() * Math.random() * 41684,
       img: Box333,
+      aosStyle: 'fade-left',
       title: 'REY NEGRO DE LUX',
       reTitle: 'Арабика 60% / Робуста 40%',
       text: `Состав: кофе натуральный жареный в зернах ,средней обжарки 
