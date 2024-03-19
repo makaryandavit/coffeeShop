@@ -1,4 +1,4 @@
-import { Footer, Header, Section1, Section2, Section3, Section4, Section5 } from "./Components";
+import { Footer, Header, Section1, Section2, Section3, Section4, Section5, Section6, Section7 } from "./Components";
 import { boxesInfo, boxesInfo2, boxesInfo3 } from "./coffessInfo";
 import  AOS  from "aos";
 import 'aos/dist/aos.css';
@@ -20,6 +20,8 @@ function App() {
       <Section4 />
       <Section1 boxesInfo={boxesInfo3} />
       <Section5 />
+      <Section6 />
+      <Section7 />
       <Footer />
     </>
   );

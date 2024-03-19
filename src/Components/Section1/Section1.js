@@ -12,7 +12,7 @@ const Section1 = ({boxesInfo}) => {
         AOS.init()
     },[])
   return (
-    <section className={style.section}>
+    <section className={style.section} id='products'>
       {
         boxesInfo.map(item => (
             <div className={style.box} key={item.idBox} data-aos={item.aosStyle}>
